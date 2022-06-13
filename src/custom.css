@@ -1,0 +1,21 @@
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+  background-color: rgb(19, 8, 54);
+  border-radius: 5px;
+  height: 100vh;
+  width: 100vw;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
