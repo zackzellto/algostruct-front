@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/algostruct-front/static/css/main.d0e35404.css",
+    "main.js": "/algostruct-front/static/js/main.44e76b2f.js",
+    "index.html": "/algostruct-front/index.html",
+    "main.d0e35404.css.map": "/algostruct-front/static/css/main.d0e35404.css.map",
+    "main.44e76b2f.js.map": "/algostruct-front/static/js/main.44e76b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e35404.css",
+    "static/js/main.44e76b2f.js"
+  ]
+}
